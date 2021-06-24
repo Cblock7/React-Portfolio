@@ -1,7 +1,7 @@
   
 import React from 'react'; 
-import ProjectCards from '../../components/Project'
-import projects from '../../projects.json'
+import ProjectCards from './project'
+import projects from '../projects.json'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Wrapper(props) {

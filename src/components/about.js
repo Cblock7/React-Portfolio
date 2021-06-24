@@ -7,12 +7,12 @@ function About() {
             <h2 class="top-title">Corey Block</h2>
             <hr></hr>
             <div>
-                <img class="mb-5" id="avatar" src="./public/corey.jpg" alt="Corey Block" />
+                <img class="mb-5" src="../../../public/corey.jpg" alt="Corey Block" />
 
                 <p>
                 A motivated and aspiring web developer interested in continuously learning more and advancing myself in the field of programming and web development.
                 </p>
-                
+
             </div>
         </section>
     )
