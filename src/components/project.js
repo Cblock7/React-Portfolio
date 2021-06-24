@@ -2,7 +2,6 @@
 import React from 'react'; 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-// Individual Cards 
 function ProjectCards(props) {
     return (
       <div className="card"> 
