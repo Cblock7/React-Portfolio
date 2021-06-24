@@ -2,6 +2,8 @@
 ## Description 
 > This is my developers portfolio created entirely with React! 
 
+~[](./assets/react-portfolio.JPG)
+
 ## Table of Contents 
 1. [Installation](#installation) 
 2. [Usage](#usage) 
