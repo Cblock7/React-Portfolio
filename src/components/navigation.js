@@ -11,7 +11,7 @@ function Navigation(props) {
             <h4 class="nav-title-font">Corey Block</h4>
           </div>
         </NavLink>
-        <ul class="navbar-nav ml-auto navitem-indent">
+        <ul className="navbar-nav ml-auto navitem-indent">
           <li class="nav-item">
             <NavLink to="/about">
               <div class="nav-font text-light">About Me</div>
