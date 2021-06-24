@@ -2,42 +2,42 @@
     {
         "id": 1,
         "name": "Day Planner",
-        "image": "https://github.com/Cblock7/Day-Planner/blob/main/Day-Planner-screenshot.jpg",
+        "image": "https://raw.githubusercontent.com/Cblock7/Day-Planner/main/Day-Planner-screenshot.jpg",
         "github": "https://github.com/Cblock7/Day-Planner",
         "deploy": "https://cblock7.github.io/Day-Planner/" 
     },
     {
         "id": 2,
         "name": "Night Sky",
-        "image": "https://github.com/Cblock7/Night-Sky/blob/main/assets/imgs/home_screenshot.png",
+        "image": "https://raw.githubusercontent.com/Cblock7/Night-Sky/main/assets/imgs/home_screenshot.png",
         "github": "https://github.com/Cblock7/Night-Sky",
         "deploy": "https://cblock7.github.io/Night-Sky/"
     },
     {
         "id": 3,
         "name": "Trilogybyte",
-        "image": "https://github.com/Cblock7/Trilogybyte/blob/main/public/assets/images/screenshot2.PNG",
+        "image": "https://raw.githubusercontent.com/Cblock7/Trilogybyte/main/public/assets/images/screenshot2.PNG",
         "github": "https://github.com/Cblock7/Trilogybyte",
         "deploy": "https://salty-reaches-86941.herokuapp.com/"
     },
     {
         "id": 4,
         "name": "Employee Tracker",
-        "image": "https://github.com/Cblock7/Employee-Tracker/blob/main/Assets/employee-tracker.JPG",
+        "image": "https://raw.githubusercontent.com/Cblock7/Employee-Tracker/main/Assets/employee-tracker.JPG",
         "github": "https://github.com/Cblock7/Employee-Tracker",
         "deploy": "https://cblock7.github.io/Employee-Tracker/"
     },
     {
         "id": 5,
         "name": "Budget Tracker",
-        "image": "https://github.com/Cblock7/Budget-Tracker/blob/main/public/SS1.JPG",
+        "image": "https://raw.githubusercontent.com/Cblock7/Budget-Tracker/main/public/SS1.JPG",
         "github": "https://github.com/Cblock7/Budget-Tracker",
         "deploy": "https://calm-chamber-49808.herokuapp.com/"
     },
     {
         "id": 6,
         "name": "Fitness Tracker",
-        "image": "https://github.com/Cblock7/Fitness-Tracker/blob/main/assets/img/SS1.JPG",
+        "image": "https://raw.githubusercontent.com/Cblock7/Fitness-Tracker/main/assets/img/SS1.JPG",
         "github": "https://github.com/Cblock7/Fitness-Tracker",
         "deploy": " https://thawing-dusk-86014.herokuapp.com/?id=60ca4b8d8899d50015c14c01"
     }
