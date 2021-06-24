@@ -20,8 +20,8 @@ function Resume() {
             </a>
           </p>
 
-          <a href="./assets/Corey_Block_Resume(1).PDF"
-            download="Corey_Block_Resume">
+          <a href="https://github.com/Cblock7/React-Portfolio/raw/development/assets/Corey_Block_Resume%20(1).PDF"
+            class="link">
             Download Resume
           </a>
         </div>
